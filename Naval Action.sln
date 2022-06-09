@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naval Action", "Naval Action\Naval Action.csproj", "{6A53C3B8-6B7B-4B8E-8824-5F120A7E8E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{5FAB3289-1671-4C11-88D7-29E5FA55BA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A53C3B8-6B7B-4B8E-8824-5F120A7E8E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A53C3B8-6B7B-4B8E-8824-5F120A7E8E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A53C3B8-6B7B-4B8E-8824-5F120A7E8E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A53C3B8-6B7B-4B8E-8824-5F120A7E8E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FAB3289-1671-4C11-88D7-29E5FA55BA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FAB3289-1671-4C11-88D7-29E5FA55BA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FAB3289-1671-4C11-88D7-29E5FA55BA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FAB3289-1671-4C11-88D7-29E5FA55BA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34A045D3-C69F-4756-B8E3-C19689E82566}
+	EndGlobalSection
+EndGlobal
