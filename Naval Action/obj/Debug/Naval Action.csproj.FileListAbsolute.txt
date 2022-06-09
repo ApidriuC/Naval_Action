@@ -1,0 +1,380 @@
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\Naval Action.csprojAssemblyReference.cache
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\Naval_Action.NavalAction1.resources
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\Naval_Action.Properties.Resources.resources
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.GenerateResource.cache
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.CoreCompileInputs.cache
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\bin\Debug\Naval Action.exe.config
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\bin\Debug\Naval Action.exe
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\bin\Debug\Naval Action.pdb
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\Naval Action.exe
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\Naval Action.pdb
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\Naval_Action.Form2.resources
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\Naval_Action.Form3.resources
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\Naval_Action.Form5.resources
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\Interop.WMPLib.dll
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.ResolveComReference.cache
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\bin\Debug\Interop.WMPLib.dll
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\obj\Debug\Naval_Action.Form6.resources
+C:\Users\CAROLINA\source\repos\Naval Action\Naval Action\bin\Debug\Epic.mp3
+D:\Naval Action\Naval Action\bin\Debug\Epic.mp3
+D:\Naval Action\Naval Action\bin\Debug\Naval Action.exe.config
+D:\Naval Action\Naval Action\bin\Debug\Naval Action.exe
+D:\Naval Action\Naval Action\bin\Debug\Naval Action.pdb
+D:\Naval Action\Naval Action\bin\Debug\Interop.WMPLib.dll
+D:\Naval Action\Naval Action\bin\Debug\AxInterop.WMPLib.dll
+D:\Naval Action\Naval Action\obj\Debug\Naval Action.csprojAssemblyReference.cache
+D:\Naval Action\Naval Action\obj\Debug\Interop.WMPLib.dll
+D:\Naval Action\Naval Action\obj\Debug\AxInterop.WMPLib.dll
+D:\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.ResolveComReference.cache
+D:\Naval Action\Naval Action\obj\Debug\Naval_Action.NavalAction1.resources
+D:\Naval Action\Naval Action\obj\Debug\Naval_Action.Form2.resources
+D:\Naval Action\Naval Action\obj\Debug\Naval_Action.Form3.resources
+D:\Naval Action\Naval Action\obj\Debug\Naval_Action.Form5.resources
+D:\Naval Action\Naval Action\obj\Debug\Naval_Action.Form6.resources
+D:\Naval Action\Naval Action\obj\Debug\Naval_Action.Properties.Resources.resources
+D:\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.GenerateResource.cache
+D:\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.CoreCompileInputs.cache
+D:\Naval Action\Naval Action\obj\Debug\Naval Action.exe
+D:\Naval Action\Naval Action\obj\Debug\Naval Action.pdb
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval Action.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.ResolveComReference.cache
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval Action.exe
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval Action.pdb
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\Epic.mp3
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\Naval Action.exe.config
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\Naval Action.exe
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\Naval Action.pdb
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval_Action.NavalAction1.resources
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval_Action.Form2.resources
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval_Action.Form3.resources
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval_Action.Form5.resources
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval_Action.Form6.resources
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval_Action.MisControles.CasillaMatriz.resources
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval_Action.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\netstandard.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.AppContext.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Collections.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.ComponentModel.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Console.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Data.Common.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Globalization.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.IO.Compression.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.IO.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.IO.Pipes.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Linq.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Net.Http.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Net.Ping.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Net.Primitives.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Net.Requests.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Net.Security.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Net.Sockets.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.ObjectModel.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Reflection.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Resources.Reader.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Resources.Writer.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Runtime.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Security.Claims.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Security.Principal.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Security.SecureString.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Text.Encoding.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Threading.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Threading.Thread.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Threading.Timer.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Xml.XPath.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval Action.exe.config
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.CopyComplete
+D:\Naval Action\Naval Action\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Naval Action\Naval Action\bin\Debug\netstandard.dll
+D:\Naval Action\Naval Action\bin\Debug\System.AppContext.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Collections.Concurrent.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Collections.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Collections.NonGeneric.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Collections.Specialized.dll
+D:\Naval Action\Naval Action\bin\Debug\System.ComponentModel.dll
+D:\Naval Action\Naval Action\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Naval Action\Naval Action\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Naval Action\Naval Action\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Console.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Data.Common.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Debug.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Process.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Tools.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Drawing.Primitives.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Dynamic.Runtime.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Globalization.Calendars.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Globalization.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Globalization.Extensions.dll
+D:\Naval Action\Naval Action\bin\Debug\System.IO.Compression.dll
+D:\Naval Action\Naval Action\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Naval Action\Naval Action\bin\Debug\System.IO.dll
+D:\Naval Action\Naval Action\bin\Debug\System.IO.FileSystem.dll
+D:\Naval Action\Naval Action\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Naval Action\Naval Action\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Naval Action\Naval Action\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Naval Action\Naval Action\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Naval Action\Naval Action\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Naval Action\Naval Action\bin\Debug\System.IO.Pipes.dll
+D:\Naval Action\Naval Action\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Linq.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Linq.Expressions.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Linq.Parallel.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Linq.Queryable.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Net.Http.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Net.NameResolution.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Net.NetworkInformation.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Net.Ping.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Net.Primitives.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Net.Requests.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Net.Security.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Net.Sockets.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Net.WebSockets.dll
+D:\Naval Action\Naval Action\bin\Debug\System.ObjectModel.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Reflection.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Reflection.Extensions.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Reflection.Primitives.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Resources.Reader.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Resources.ResourceManager.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Resources.Writer.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Runtime.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Runtime.Extensions.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Runtime.Handles.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Runtime.InteropServices.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Runtime.Numerics.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Security.Claims.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Security.Principal.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Security.SecureString.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Text.Encoding.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Text.RegularExpressions.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Threading.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Threading.Overlapped.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Threading.Tasks.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Threading.Thread.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Threading.ThreadPool.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Threading.Timer.dll
+D:\Naval Action\Naval Action\bin\Debug\System.ValueTuple.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Xml.XDocument.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Xml.XmlDocument.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Xml.XPath.dll
+D:\Naval Action\Naval Action\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Naval Action\Naval Action\bin\Debug\Entidades.dll
+D:\Naval Action\Naval Action\bin\Debug\Entidades.pdb
+D:\Naval Action\Naval Action\obj\Debug\Naval Action.exe.config
+D:\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.CopyComplete
+F:\Expo\Naval Action\Naval Action\bin\Debug\Epic.mp3
+F:\Expo\Naval Action\Naval Action\bin\Debug\Naval Action.exe.config
+F:\Expo\Naval Action\Naval Action\bin\Debug\Naval Action.exe
+F:\Expo\Naval Action\Naval Action\bin\Debug\Naval Action.pdb
+F:\Expo\Naval Action\Naval Action\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\netstandard.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.AppContext.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Collections.Concurrent.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Collections.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Collections.NonGeneric.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Collections.Specialized.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.ComponentModel.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Console.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Data.Common.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Debug.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Process.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Tools.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Drawing.Primitives.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Dynamic.Runtime.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Globalization.Calendars.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Globalization.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Globalization.Extensions.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.IO.Compression.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.IO.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.IO.FileSystem.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.IO.Pipes.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Linq.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Linq.Expressions.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Linq.Parallel.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Linq.Queryable.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Net.Http.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Net.NameResolution.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Net.NetworkInformation.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Net.Ping.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Net.Primitives.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Net.Requests.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Net.Security.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Net.Sockets.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Net.WebSockets.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.ObjectModel.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Reflection.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Reflection.Extensions.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Reflection.Primitives.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Resources.Reader.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Resources.ResourceManager.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Resources.Writer.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Runtime.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Runtime.Extensions.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Runtime.Handles.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Runtime.InteropServices.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Runtime.Numerics.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Security.Claims.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Security.Principal.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Security.SecureString.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Text.Encoding.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Text.RegularExpressions.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Threading.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Threading.Overlapped.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Threading.Tasks.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Threading.Thread.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Threading.ThreadPool.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Threading.Timer.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.ValueTuple.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Xml.XDocument.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Xml.XmlDocument.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Xml.XPath.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\Entidades.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\Entidades.pdb
+F:\Expo\Naval Action\Naval Action\bin\Debug\Interop.WMPLib.dll
+F:\Expo\Naval Action\Naval Action\bin\Debug\AxInterop.WMPLib.dll
+F:\Expo\Naval Action\Naval Action\obj\Debug\Naval Action.csprojAssemblyReference.cache
+F:\Expo\Naval Action\Naval Action\obj\Debug\Naval Action.exe.config
+F:\Expo\Naval Action\Naval Action\obj\Debug\Interop.WMPLib.dll
+F:\Expo\Naval Action\Naval Action\obj\Debug\AxInterop.WMPLib.dll
+F:\Expo\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.ResolveComReference.cache
+F:\Expo\Naval Action\Naval Action\obj\Debug\Naval_Action.NavalAction1.resources
+F:\Expo\Naval Action\Naval Action\obj\Debug\Naval_Action.Form2.resources
+F:\Expo\Naval Action\Naval Action\obj\Debug\Naval_Action.Form3.resources
+F:\Expo\Naval Action\Naval Action\obj\Debug\Naval_Action.Form5.resources
+F:\Expo\Naval Action\Naval Action\obj\Debug\Naval_Action.Properties.Resources.resources
+F:\Expo\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.GenerateResource.cache
+F:\Expo\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.CoreCompileInputs.cache
+F:\Expo\Naval Action\Naval Action\obj\Debug\Naval Action.csproj.CopyComplete
+F:\Expo\Naval Action\Naval Action\obj\Debug\Naval Action.exe
+F:\Expo\Naval Action\Naval Action\obj\Debug\Naval Action.pdb
