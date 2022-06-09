@@ -1,0 +1,27 @@
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\Usuario\source\repos\Matirces primero intento\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+D:\Naval Action\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+D:\Naval Action\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+D:\Naval Action\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+D:\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+D:\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+D:\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+D:\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+D:\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+D:\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+F:\Expo\Naval Action\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+F:\Expo\Naval Action\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+F:\Expo\Naval Action\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+F:\Expo\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+F:\Expo\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+F:\Expo\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+F:\Expo\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+F:\Expo\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+F:\Expo\Naval Action\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
